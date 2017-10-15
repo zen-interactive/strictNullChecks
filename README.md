@@ -1,4 +1,4 @@
-# strictNullChecks
+# Propriété strictNullChecks
 
 Tester la propriété strictNullChecks à true et à false
 
